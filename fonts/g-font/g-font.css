@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'G-font';
-    src: url(../fonts/g-font/G-font-Regular.otf);
+    src: url(./fonts/g-font/G-font-Regular.otf);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'G-font';
-    src: url(../fonts/g-font/G-font-Medium.otf);
+    src: url(./fonts/g-font/G-font-Medium.otf);
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'G-font';
-    src: url(../fonts/g-font/G-font-Bold.otf);
+    src: url(./fonts/g-font/G-font-Bold.otf);
     font-weight: bold;
     font-style: normal;
 }
